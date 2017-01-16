@@ -16,7 +16,7 @@ Sau khi dò version thì ta sẽ tìm được version hiện tại của nó l�
 
 Ta thử xem nó có mấy columm . Dùng lệnh order by , và thấy nó có 2 volumm . vì thử columm thứ 3 thì nó trả về 0 nhưng khi select nó chỉ trả về đúng hoặc sai . Vậy nên ta thử tìm số ký tự trong keyword xem sao
 
-http://redtiger.labs.overthewire.org/level4.php?id=1 and length(keyword) 20= 21
+http://redtiger.labs.overthewire.org/level4.php?id=1 and length(keyword)= 21
 
 Kết quả trả về 1 nên ta biết nó có 21 ký tự 
 
