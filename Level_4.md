@@ -28,3 +28,4 @@ Với lệnh substring thì ta sẽ xét xem ở trị trí bao nhiêu ký tự 
 
 subtring(chuoi,vitri,sokytu)
 
+Ta xem code bằng python tại đây<https://github.com/hangockhue/Writeup_Redtiger-s_OverTheWire.org/blob/master/python%20lv4%20url.py>
